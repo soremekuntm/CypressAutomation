@@ -17,4 +17,4 @@ describe('Instagram Regression Test suite', () => {
       cy.get('[data-testid=login-error-message]')
       // Cypress should check if this message is visible
       .should('be.visible')
-    }) //it block terminates here
+    }) //it block terminates herenpx cypress open

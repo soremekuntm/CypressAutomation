@@ -18,3 +18,4 @@ describe('Instagram Regression Test suite', () => {
       // Cypress should check if this message is visible
       .should('be.visible')
     }) //it block terminates here
+})
